@@ -70,13 +70,19 @@ streamlit run app.py
 
 🔗 **GitHub**: [RAG-KnowBot](https://github.com/bhargavhegde/RAG-KnowBot)
 
-## Demo
+## Demo Video
 
-🎥 **Demo Video**: [Watch 60-second silent walkthrough](https://github.com/bhargavhegde/RAG-KnowBot/raw/main/demo/knowbotDemo.webm)
+<div style="margin: 2rem 0; text-align: center;">
+  <video 
+    controls 
+    style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
+    preload="metadata">
+    <source src="/videos/rag-knowbot-demo.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-## Screenshots
-
-*Add your screenshots here showing the UI, document upload, query interface, and source citations*
+*Screen recording demonstrating RAG-KnowBot's document upload, query interface, and source citation features*
 
 ---
 

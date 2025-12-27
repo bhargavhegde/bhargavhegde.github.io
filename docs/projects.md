@@ -42,6 +42,16 @@ Full reproduction of DAIR-V2X late-fusion model for cooperative 3D object detect
 
 Fully local, private knowledge chatbot using Retrieval-Augmented Generation for interacting with user documents. Features file upload/deletion, customizable prompts, source citations, and persistent vector database.
 
+<div style="margin: 1.5rem 0;">
+  <video 
+    controls 
+    style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
+    preload="metadata">
+    <source src="/videos/rag-knowbot-demo.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 [View Details →](/projects/rag-knowbot) | [GitHub](https://github.com/bhargavhegde/RAG-KnowBot)
 
 ---
