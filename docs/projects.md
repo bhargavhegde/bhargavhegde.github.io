@@ -8,6 +8,16 @@
 
 ## Featured Projects
 
+### 🗑️ [Garbage Segregation System](/projects/garbage-segregation)
+**Computer Vision | Python, YOLOv3, CNN, Raspberry Pi, Robotic Arm**  
+*Jun. 2020*
+
+Robotic waste segregation system classifying garbage with **90% accuracy**. Automated pickup and placement using robotic arm. **Secured funding** from Karnataka State Council for Science and Technology (KSCST).
+
+[View Details →](/projects/garbage-segregation)
+
+---
+
 ### 🚗 [DAIR-V2X Cooperative 3D Object Detection](/projects/dair-v2x)
 **Research Project | Python, PyTorch, CUDA, LiDAR**
 
@@ -35,26 +45,16 @@ Real-time sound alert and direction detection system for accessibility. Classifi
 
 ---
 
-### 🚗 [Autonomous Vehicle 3D Perception System](/projects/av-perception)
-**Research Project | PyTorch, CUDA, ROS2, LiDAR** *(Ongoing)*
+### 🎯 [Laser Shooter Using Object Detection](/projects/laser-shooter)
+**Computer Vision | Python, OpenCV, Raspberry Pi, Servo Motors**
 
-Designed real-time 3D object detection system with CenterPoint-based algorithm, achieving high accuracy and efficiency. Integrated with Ouster LiDAR for precise detection in dynamic environments.
+Real-time object tracking prototype shining laser on targets. Integrated computer vision and servo control for automated targeting system.
 
-[View Details →](/projects/av-perception) | [GitHub](https://github.com/bhargavhegde)
+[View Details →](/projects/laser-shooter)
 
 ---
 
 ## Academic Projects
-
-### 🗑️ Garbage Segregation System
-**Computer Vision | Python, YOLOv3, CNN, Raspberry Pi, Robotic Arm**  
-*Jun. 2020*
-
-- Developed robotic waste segregation system classifying garbage with **90% accuracy**
-- Automated pickup and placement using robotic arm
-- **Secured funding** from Karnataka State Council for Science and Technology (KSCST)
-
----
 
 ### 🎓 Advanced Machine Learning
 **Reinforcement Learning | PyTorch, Gymnasium**
@@ -81,20 +81,14 @@ Designed real-time 3D object detection system with CenterPoint-based algorithm, 
 
 ---
 
+## Other Projects
+
 ### 🏠 Smart Kitchen Containers
 **IoT Project | Python, IoT, PHP, Java, SQL, Raspberry Pi**  
 *Mar. 2018*
 
 - IoT-based system to monitor inventory and automate online ordering when stock is low
 - **Published technical paper** in Matjournals
-
----
-
-### 🎯 Laser Shooter Using Object Detection
-**Computer Vision | Python, OpenCV, Raspberry Pi, Servo Motors**
-
-- Real-time object tracking prototype shining laser on targets
-- Integrated computer vision and servo control
 
 ---
 
@@ -119,6 +113,17 @@ Designed real-time 3D object detection system with CenterPoint-based algorithm, 
 
 - Platform for student voting with admin-maintained database
 - Ensures one vote per registered student
+
+---
+
+### 🚗 Autonomous Vehicle 3D Perception System
+**Research Project | PyTorch, CUDA, ROS2, LiDAR** *(Ongoing)*
+
+- Designed real-time 3D object detection system with CenterPoint-based algorithm
+- Integrated with Ouster LiDAR for precise detection in dynamic environments
+- Part of ongoing research at CAVAS Lab
+
+[View Details →](/projects/av-perception)
 
 ---
 

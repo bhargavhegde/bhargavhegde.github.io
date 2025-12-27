@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Bhargav Hegde
   text: Machine Learning Engineer
-  tagline: Building privacy-first AI, RAG systems, and autonomous vehicles
+  tagline: Transforming ideas into intelligent systems through AI, machine learning, and innovative engineering
   actions:
     - theme: brand
       text: View Projects
