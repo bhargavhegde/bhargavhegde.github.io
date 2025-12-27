@@ -1,9 +1,168 @@
-# My Projects
+# Projects
 
-## KnowBot – Personal RAG Chatbot
-**Technologies**: Ollama (Llama 3.1 8B), LangChain, Chroma, Streamlit  
-**Description**: Fully local, private chatbot for querying your own documents with source citations, file upload/delete, and custom prompts.  
-**GitHub**: [RAG-KnowBot](https://github.com/bhargavhegde/RAG-KnowBot)  
-**Demo**: [Watch 60-second silent walkthrough](https://github.com/bhargavhegde/RAG-KnowBot/raw/main/demo/knowbotDemo.webm)
+<div style="text-align: center; margin: 2rem 0;">
+  <p style="font-size: 1.1rem; color: var(--vp-c-text-2);">
+    A collection of my work in AI, machine learning, autonomous systems, and software engineering
+  </p>
+</div>
 
-(Add more projects here as you build them – e.g. fine-tuning, agents, etc.)
+## Featured Projects
+
+### 🚗 [DAIR-V2X Cooperative 3D Object Detection](/projects/dair-v2x)
+**Research Project | Python, PyTorch, CUDA, LiDAR**
+
+Full reproduction of DAIR-V2X late-fusion model for cooperative 3D object detection in V2X scenarios. Achieved 40.01% AP on vehicle class with significant performance improvements.
+
+[View Details →](/projects/dair-v2x) | [GitHub](https://github.com/bhargavhegde/DAIR-V2X-Bhargav-2025)
+
+---
+
+### 🧠 [RAG-KnowBot: Personal RAG Chatbot](/projects/rag-knowbot)
+**AI/ML Project | Python, Ollama, LangChain, Chroma, Streamlit**
+
+Fully local, private knowledge chatbot using Retrieval-Augmented Generation for interacting with user documents. Features file upload/deletion, customizable prompts, source citations, and persistent vector database.
+
+[View Details →](/projects/rag-knowbot) | [GitHub](https://github.com/bhargavhegde/RAG-KnowBot)
+
+---
+
+### 🔊 [Low-Latency Sound Disambiguator](/projects/sound-disambiguator)
+**Accessibility Project | TensorFlow, NumPy, SciPy, Streamlit, Ollama + Mistral**
+
+Real-time sound alert and direction detection system for accessibility. Classifies sounds (e.g., sirens, barks) using YAMNet and estimates direction via TDOA.
+
+[View Details →](/projects/sound-disambiguator) | [GitHub](https://github.com/bhargavhegde/Low-latency-Sound-Disambiguator)
+
+---
+
+### 🚗 [Autonomous Vehicle 3D Perception System](/projects/av-perception)
+**Research Project | PyTorch, CUDA, ROS2, LiDAR** *(Ongoing)*
+
+Designed real-time 3D object detection system with CenterPoint-based algorithm, achieving high accuracy and efficiency. Integrated with Ouster LiDAR for precise detection in dynamic environments.
+
+[View Details →](/projects/av-perception) | [GitHub](https://github.com/bhargavhegde)
+
+---
+
+## Academic Projects
+
+### 🗑️ Garbage Segregation System
+**Computer Vision | Python, YOLOv3, CNN, Raspberry Pi, Robotic Arm**  
+*Jun. 2020*
+
+- Developed robotic waste segregation system classifying garbage with **90% accuracy**
+- Automated pickup and placement using robotic arm
+- **Secured funding** from Karnataka State Council for Science and Technology (KSCST)
+
+---
+
+### 🎓 Advanced Machine Learning
+**Reinforcement Learning | PyTorch, Gymnasium**
+
+- Developed custom Gymnasium environment achieving **90%+ policy convergence** with SARSA and n-step Double Q-learning
+- Implemented CNNs from scratch, achieving **87% accuracy** on image classification
+- Optimized VGG-13 and ResNet-34 architectures
+
+---
+
+### 📊 Data Systems & Security
+**Distributed Computing | PySpark, Buffer Overflow Lab**
+
+- Led distributed processing project handling **400,000+ words** with optimized bigram analysis
+- Executed security testing with custom network analysis tools and packet manipulation
+
+---
+
+### 🔬 Algorithm Analysis
+**Algorithms | Dynamic Programming, Graph Algorithms**
+
+- Implemented algorithms achieving **O(n log n) complexity** for city population analysis and optimal path finding
+- Developed solutions for DNA sequence analysis and graph problems, optimizing for datasets up to 10,000 elements
+
+---
+
+### 🏠 Smart Kitchen Containers
+**IoT Project | Python, IoT, PHP, Java, SQL, Raspberry Pi**  
+*Mar. 2018*
+
+- IoT-based system to monitor inventory and automate online ordering when stock is low
+- **Published technical paper** in Matjournals
+
+---
+
+### 🎯 Laser Shooter Using Object Detection
+**Computer Vision | Python, OpenCV, Raspberry Pi, Servo Motors**
+
+- Real-time object tracking prototype shining laser on targets
+- Integrated computer vision and servo control
+
+---
+
+### 🚗 Autonomous Explorer Vehicle
+**Robotics | Python, Raspberry Pi, Ultrasonic Sensors, Pi-Camera**
+
+- Self-navigating vehicle with real-time obstacle/cliff detection
+- Live POV streaming capabilities
+
+---
+
+### 📦 Inventory Management System
+**Full Stack | PHP, WAMP, MySQL, Python, SQL**
+
+- Database system for mobile store tracking sales/stock
+- Automated invoice generation with multi-user support and RESTful APIs
+
+---
+
+### 🗳️ Online Voting System
+**Web Development | JavaScript, XAMPP, PHP**
+
+- Platform for student voting with admin-maintained database
+- Ensures one vote per registered student
+
+---
+
+## Project Categories
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem;">
+
+### 🤖 AI & Machine Learning
+- RAG-KnowBot
+- Low-Latency Sound Disambiguator
+- Advanced ML Projects
+- Plant Classification System
+
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem;">
+
+### 🚗 Autonomous Vehicles
+- DAIR-V2X Cooperative Detection
+- 3D Perception System
+- Autonomous Explorer Vehicle
+
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem;">
+
+### 🏭 Industry Projects
+- Wi-Fi RTT & 802.11mc
+- DHCPv6 R&D
+- SAP HR Automation
+- AWS Lambda Workflows
+
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem;">
+
+### 🛠️ Full Stack & IoT
+- Smart Kitchen Containers
+- Inventory Management
+- Online Voting System
+- Attendance System
+
+</div>
+
+</div>
