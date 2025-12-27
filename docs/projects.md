@@ -12,7 +12,17 @@
 **Computer Vision | Python, YOLOv3, CNN, Raspberry Pi, Robotic Arm**  
 *Jun. 2020*
 
-Robotic waste segregation system classifying garbage with **90% accuracy**. Automated pickup and placement using robotic arm. **Secured funding** from Karnataka State Council for Science and Technology (KSCST).
+Robotic waste segregation system using tiny-YOLOv3 for automated waste classification. Achieved **61.47% mAP** with real-time detection (3-300ms). Classifies waste into Wood, Metal, Paper, Plastic, and Glass. **Secured funding** from Karnataka State Council for Science and Technology (KSCST).
+
+<div style="margin: 1.5rem 0;">
+  <video 
+    controls 
+    style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
+    preload="metadata">
+    <source src="/videos/garbage-segregation-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 [View Details →](/projects/garbage-segregation)
 
@@ -49,6 +59,16 @@ Real-time sound alert and direction detection system for accessibility. Classifi
 **Computer Vision | Python, OpenCV, Raspberry Pi, Servo Motors**
 
 Real-time object tracking prototype shining laser on targets. Integrated computer vision and servo control for automated targeting system.
+
+<div style="margin: 1.5rem 0;">
+  <video 
+    controls 
+    style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"
+    preload="metadata">
+    <source src="/videos/laser-shooter-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 [View Details →](/projects/laser-shooter)
 
