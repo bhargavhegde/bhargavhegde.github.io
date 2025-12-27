@@ -62,6 +62,10 @@ The project includes comprehensive visualization tools for:
 
 🔗 **GitHub**: [DAIR-V2X-Bhargav-2025](https://github.com/bhargavhegde/DAIR-V2X-Bhargav-2025)
 
+## Project Documentation
+
+📄 [Download Final Report (PDF)](/pdfs/dair-v2x-final-report.pdf) - *BhargavHegde_Final_Report - Complete project documentation and analysis*
+
 ## Demo & Screenshots
 
 *Add your demo videos, screenshots, and visualizations here*
