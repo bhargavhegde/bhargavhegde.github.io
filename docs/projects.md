@@ -81,14 +81,28 @@ Real-time object tracking prototype shining laser on targets. Integrated compute
 
 ---
 
+### 🌱 [Seed Classification System](/projects/seed-classification)
+**Machine Learning | Python, Computer Vision**  
+*2018*
+
+- Built and deployed ML pipeline to classify plant and seedling images with **92% accuracy**
+- Optimized species recognition for a dataset of **10,000+ images**
+- Led team of 8 members; earned **'Best Intern' award** at Experts Hub
+
+[View Details →](/projects/seed-classification)
+
+---
+
 ## Other Projects
 
-### 🏠 Smart Kitchen Containers
+### 🏠 [Smart Kitchen Containers](/projects/smart-kitchen)
 **IoT Project | Python, IoT, PHP, Java, SQL, Raspberry Pi**  
 *Mar. 2018*
 
 - IoT-based system to monitor inventory and automate online ordering when stock is low
 - **Published technical paper** in Matjournals
+
+[View Details →](/projects/smart-kitchen)
 
 ---
 

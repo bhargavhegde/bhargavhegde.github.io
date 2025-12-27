@@ -63,7 +63,22 @@ The system consists of:
 
 ## Demo & Screenshots
 
-*Add your demo videos, screenshots, and visualizations here*
+### Demo Video
+
+<div style="margin: 2rem 0; text-align: center;">
+  <video 
+    controls 
+    style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
+    poster=""
+    preload="metadata">
+    <source src="/videos/garbage-segregation-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+### Project Report
+
+📄 [Download Project Report (PDF)](/pdfs/garbage-segregation-paper.pdf) - *Garbage Segregation Paper 20-05-2020*
 
 ---
 
