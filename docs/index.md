@@ -1,8 +1,6 @@
 ---
 layout: home
 
-# Portfolio Website
-
 hero:
   name: Bhargav Hegde
   text: Machine Learning Engineer
