@@ -22,7 +22,6 @@ export default defineConfig({
       { text: 'Research', link: '/research' },
       { text: 'Projects', link: '/projects' },
       { text: 'Achievements', link: '/achievements' },
-      { text: 'Resume', link: '/resume' },
     ],
     
     socialLinks: [

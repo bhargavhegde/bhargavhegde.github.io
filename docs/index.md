@@ -12,24 +12,6 @@ hero:
     - theme: alt
       text: Research
       link: /research
-
-features:
-  - icon: 🧠
-    title: AI & Machine Learning
-    details: Deep learning, reinforcement learning, and computer vision projects
-    link: /projects
-  - icon: 🔒
-    title: Privacy-First AI
-    details: Local LLMs, RAG systems, and offline AI solutions
-    link: /projects/rag-knowbot
-  - icon: 🚗
-    title: Autonomous Vehicles
-    details: Research on 3D perception and V2X cooperative detection at CAVAS Lab
-    link: /research
-  - icon: 🔬
-    title: Research & Innovation
-    details: Published research and award-winning projects
-    link: /achievements
 ---
 
 <div style="max-width: 800px; margin: 3rem auto; padding: 0 2rem; line-height: 1.8; font-size: 1.1rem; color: var(--vp-c-text-1);">
@@ -47,4 +29,57 @@ My research interests include autonomous vehicles, privacy-preserving AI, and ed
   <a href="/resume" style="display: inline-block; padding: 1rem 2.5rem; background: var(--vp-c-bg-soft); color: var(--vp-c-text-1); border: 2px solid var(--vp-c-divider); border-radius: 8px; text-decoration: none; font-weight: 600; margin: 0.5rem; transition: transform 0.2s;">
     Download Resume
   </a>
+</div>
+
+---
+
+## Featured Projects
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 3rem 0;">
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 12px; padding: 1.5rem; background: var(--vp-c-bg-soft);">
+
+### 🗑️ [Garbage Segregation System](/projects/garbage-segregation)
+**Computer Vision | Python, YOLOv3, CNN, Raspberry Pi**
+
+Automated waste classification using tiny-YOLOv3. Achieved **61.47% mAP** with real-time detection. Classifies waste into 5 categories. **Secured KSCST funding**.
+
+<div style="margin: 1.5rem 0;">
+  <video controls style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" preload="metadata">
+    <source src="/videos/garbage-segregation-demo.mp4" type="video/mp4">
+  </video>
+</div>
+
+[View Details →](/projects/garbage-segregation)
+
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 12px; padding: 1.5rem; background: var(--vp-c-bg-soft);">
+
+### 🎯 [Laser Shooter Using Object Detection](/projects/laser-shooter)
+**Computer Vision | Python, OpenCV, Raspberry Pi**
+
+Real-time object tracking with automated laser targeting using computer vision and servo control.
+
+<div style="margin: 1.5rem 0;">
+  <video controls style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" preload="metadata">
+    <source src="/videos/laser-shooter-demo.mp4" type="video/mp4">
+  </video>
+</div>
+
+[View Details →](/projects/laser-shooter)
+
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 12px; padding: 1.5rem; background: var(--vp-c-bg-soft);">
+
+### 🚗 [DAIR-V2X Cooperative 3D Object Detection](/projects/dair-v2x)
+**Research Project | Python, PyTorch, CUDA, LiDAR**
+
+Full reproduction of DAIR-V2X late-fusion model for cooperative 3D object detection. Achieved **40.01% AP** with **8.9% improvement** in 3D AP@0.7.
+
+[View Details →](/projects/dair-v2x) | [GitHub](https://github.com/bhargavhegde/DAIR-V2X-Bhargav-2025)
+
+</div>
+
 </div>

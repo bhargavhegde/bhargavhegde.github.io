@@ -72,9 +72,9 @@
 ### Tata Consultancy Services
 **System Associate Engineer** | *Apr. 2021 – Oct. 2021*
 
-- Optimized SAP HR data processes, improving efficiency by **25%** (AWS Lambda)
-- Reduced manual tasks by **30%** and deployment time by **15%**
-- Developed Python-based RESTful APIs for business process automation
+- Developed Python-based RESTful APIs to optimize data pipelines, enhancing processing and storage efficiency for client reporting
+- Managed and optimized employee data processes within SAP HR modules, including personnel administration, organizational management, and payroll configuration
+- Streamlined data fetching, processing, and storage workflows to improve overall system performance
 
 ### Internships
 
