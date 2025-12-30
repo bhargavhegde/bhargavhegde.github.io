@@ -66,8 +66,8 @@
 ### Process Optimization
 **Tata Consultancy Services** | *Apr. 2021 – Oct. 2021*
 
-- Improved efficiency by **25%** with AWS Lambda automation
-- Reduced manual tasks by **30%** and deployment time by **15%**
+- Developed Python-based RESTful APIs to optimize data pipelines, enhancing processing and storage efficiency for client reporting
+- Streamlined data workflows to improve overall system performance
 
 ---
 

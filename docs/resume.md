@@ -64,10 +64,9 @@ Bachelor of Engineering in Computer Science and Engineering | Aug. 2016 – Aug.
 
 **Tata Consultancy Services** | System Associate Engineer | Apr. 2021 – Oct. 2021
 
-- Managed and optimized employee data processes within SAP HR modules
-- Optimized SAP HR data processes, improving efficiency by 25% with AWS Lambda automation
-- Reduced manual tasks by 30% and sped up deployment time by 15%
-- Developed Python-based RESTful APIs to automate business processes
+- Managed and optimized employee data processes within SAP HR modules, including personnel administration, organizational management, and payroll configuration
+- Developed Python-based RESTful APIs to optimize data pipelines, enhancing processing and storage efficiency for client reporting
+- Streamlined data fetching, processing, and storage workflows to improve overall system performance
 
 **Pentagon Space** | Intern | 2020
 
