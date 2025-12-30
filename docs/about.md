@@ -2,7 +2,7 @@
 
 <div style="text-align: center; margin: 2rem 0;">
   <p style="font-size: 1.2rem; color: var(--vp-c-text-2);">
-    Machine Learning Engineer with 3+ years of experience in software engineering, AI, and autonomous systems
+    Machine Learning Engineer with 3+ years of software engineering experience
   </p>
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Contact Details
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
   <div style="font-size: 2rem; margin-bottom: 0.5rem;">📧</div>
@@ -46,16 +46,15 @@
 **Master of Science in Computer Science and Engineering**  
 *Buffalo, NY | Aug. 2024 – Present*
 
-- **Research Associate at CAVAS Lab** (Connected and Autonomous Vehicle Applications and Systems)
-- Ongoing research on real-time 3D perception and networking using LiDAR
-- Focus on cooperative perception and V2X communications
+- Research Associate at **CAVAS Lab**
+- Research focus: Real-time 3D perception, LiDAR processing, V2X communications
 - [Learn more about my research →](/research)
 
 ### JSS Academy of Technical Education
 **Bachelor of Engineering in Computer Science and Engineering**  
 *Bangalore, India | Aug. 2016 – Aug. 2020*
 
-- Initiated and secured funding for an IoT lab
+- Initiated and secured funding for IoT lab
 - Conducted instructional sessions for junior students
 
 ---
@@ -65,51 +64,33 @@
 ### Tech Mahindra
 **Software Engineer** | *Nov. 2021 – Jul. 2024*
 
-- Developed and maintained automation test scripts for Wi-Fi technologies using Robot Framework
-- Performed in-depth packet analysis on Wireshark
-- Contributed to **IEEE 802.11mc technologies**, focusing on Wi-Fi RTT for device locationing
+- Developed automation test scripts for Wi-Fi technologies (Robot Framework)
+- Contributed to **IEEE 802.11mc technologies** (Wi-Fi RTT for device locationing)
+- Led R&D initiatives in **DHCPv6** protocol testing
 - Delivered training to cross-functional teams globally
-- Led R&D initiatives in **DHCPv6** to design comprehensive test cases addressing packet behavior and stateful vs. stateless configurations, filling coverage gaps for company devices
 
 ### Tata Consultancy Services
 **System Associate Engineer** | *Apr. 2021 – Oct. 2021*
 
-- Managed and optimized employee data processes within SAP HR modules, including personnel administration, organizational management, and payroll configuration
-- **Optimized SAP HR data processes**, improving efficiency by **25%** with AWS Lambda automation and S3 for secure data storage
-- **Reduced manual tasks by 30%** and **sped up deployment time by 15%** through AWS Lambda workflows and EC2 testing environments
-- Developed Python-based RESTful APIs to automate business processes, streamlining data fetching, processing, and storage for efficient client reporting
+- Optimized SAP HR data processes, improving efficiency by **25%** (AWS Lambda)
+- Reduced manual tasks by **30%** and deployment time by **15%**
+- Developed Python-based RESTful APIs for business process automation
 
-### Pentagon Space
-**Intern** | *2020*
+### Internships
 
-- Completed in-person 4-month Python Full Stack Course covering Python, Django, SQL, HTML/CSS/JavaScript, data structures, OOPs, and aptitude training
-- Built web applications with Python, Django, and SQL, focusing on scalable software development
-
-### Teqed Labs
-**Intern** | *2019*
-
-- Developed an innovative **Attendance System** leveraging Computer Vision and Deep Learning for face recognition and database management
-- **Awarded 'Best Project'** for delivering an impactful, high-quality solution
-
-### Experts Hub
-**Intern** | *2018*
-
-- Built and deployed a machine learning pipeline to classify plant and seedling images with **92% accuracy**, optimizing species recognition for a dataset of 10,000 images
-- Led and mentored a team of 8 members, coordinating tasks for successful project completion
-- **Earned 'Best Intern' award** for exceptional performance
+**Pentagon Space** (2020) - Python Full Stack Development  
+**Teqed Labs** (2019) - Computer Vision Attendance System - **Best Project Award**  
+**Experts Hub** (2018) - ML Plant Classification (92% accuracy) - **Best Intern Award**
 
 ---
 
 ## Technical Skills
 
-### Programming Languages & Frameworks
-Python, Java, C/C++, SQL, JavaScript, HTML, Shell Scripting, TensorFlow, Spark, PyTorch, Keras, Scikit-learn, OpenCV, Robot Framework, PIGPIO, Optuna, ROS2, YOLOv3, CNNs, LLM, Node.js, Django
+**Languages & Frameworks:** Python, Java, C/C++, SQL, JavaScript, PyTorch, TensorFlow, OpenCV, ROS2
 
-### Technologies & Tools
-AWS, Azure, DHCPv6, IPv6, 802.11mc, TLS, SSL, Wireshark, VMware, Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, SAP, JIRA, Testing, Debugging, MySQL, UNIX, Linux, Embedded Systems, IoT, LiDAR, V2X Communications, CUDA, Kubernetes, Jenkins, RESTful APIs, CI/CD Pipelines, Collaborative Perception (CP)
+**Technologies:** AWS, Azure, Docker, Git, LiDAR, V2X Communications, CUDA, Kubernetes, CI/CD
 
-### Relevant Coursework
-Machine Learning, Analysis of Algorithms, Data-Intensive Computing, Computer Security, Database Systems, Modern Network Concepts, Computer Architecture, Operating Systems
+**Coursework:** Machine Learning, Algorithms, Data-Intensive Computing, Computer Security, Database Systems
 
 ---
 
@@ -118,4 +99,4 @@ Machine Learning, Analysis of Algorithms, Data-Intensive Computing, Computer Sec
 - **Autonomous Vehicles**: 3D perception, LiDAR processing, V2X cooperative detection
 - **Machine Learning**: Deep learning, reinforcement learning, computer vision
 - **Privacy-Preserving AI**: Local LLMs, RAG systems, offline AI solutions
-- **Edge Computing**: Low-latency systems, real-time processing, embedded AI
+- **Edge Computing**: Low-latency systems, real-time processing

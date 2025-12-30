@@ -2,13 +2,10 @@
 layout: home
 
 hero:
-  name: Hi, I'm Bhargav Hegde
+  name: Bhargav Hegde
   text: 
   tagline: Machine Learning Engineer
   actions:
-    - theme: brand
-      text: View Projects
-      link: /projects
     - theme: alt
       text: About Me
       link: /about
@@ -19,27 +16,27 @@ hero:
 features:
   - icon: 🧠
     title: AI & Machine Learning
-    details: Deep learning, reinforcement learning, and computer vision projects with PyTorch and TensorFlow
+    details: Deep learning, reinforcement learning, and computer vision projects
     link: /projects
   - icon: 🔒
     title: Privacy-First AI
-    details: Local LLMs, RAG systems, and offline AI solutions for secure, private applications
+    details: Local LLMs, RAG systems, and offline AI solutions
     link: /projects/rag-knowbot
   - icon: 🚗
     title: Autonomous Vehicles
-    details: Research on real-time 3D perception, LiDAR processing, and V2X cooperative detection at CAVAS Lab
+    details: Research on 3D perception and V2X cooperative detection at CAVAS Lab
     link: /research
   - icon: 🔬
     title: Research & Innovation
-    details: Published research, award-winning projects, and contributions to cutting-edge technologies
+    details: Published research and award-winning projects
     link: /achievements
 ---
 
 <div style="max-width: 800px; margin: 3rem auto; padding: 0 2rem; line-height: 1.8; font-size: 1.1rem; color: var(--vp-c-text-1);">
 
-Hi, I'm **Bhargav Hegde**, a Machine Learning Engineer with **3 years** of hands-on experience in building privacy-focused AI solutions. Holding a **Master's in Computer Science** from the University at Buffalo, I specialize in **Retrieval-Augmented Generation (RAG)**, local LLMs, and full-stack ML applications. 
+I'm **Bhargav Hegde**, a Machine Learning Engineer with **3 years** of software engineering experience. Currently pursuing a **Master's in Computer Science** at the University at Buffalo, I specialize in **Retrieval-Augmented Generation (RAG)**, local LLMs, and full-stack ML applications. 
 
-Passionate about **ethical AI** and efficient deployments, I've developed projects like offline document chatbots and agentic workflows. Explore my work below to see how I turn complex ideas into practical, impactful tools.
+My research interests include autonomous vehicles, privacy-preserving AI, and edge computing. Explore my work below to see how I turn complex ideas into practical, impactful tools.
 
 </div>
 
