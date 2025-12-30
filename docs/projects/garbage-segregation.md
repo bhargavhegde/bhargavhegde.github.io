@@ -162,7 +162,7 @@ The system can classify waste into the following categories:
 
 ## Project Documentation
 
-📄 [Download Research Paper (PDF)](/pdfs/garbage-segregation-paper.pdf) - *"Automatic Garbage Segregation using Image Processing and Machine Learning" - Published Paper*
+📄 [Download Research Paper (PDF)](/pdfs/garbage-segregation-paper.pdf) - *"Automatic Garbage Segregation using Image Processing and Machine Learning"*
 
 ## Recognition
 

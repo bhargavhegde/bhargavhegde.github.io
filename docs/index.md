@@ -33,7 +33,7 @@ My research interests include autonomous vehicles, privacy-preserving AI, and ed
 
 ---
 
-## Featured Projects
+## Favourite Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 3rem 0;">
 

@@ -10,12 +10,12 @@
 
 ## Contact Details
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
   <div style="font-size: 2rem; margin-bottom: 0.5rem;">📧</div>
   <strong>Email</strong><br>
-  <a href="mailto:bhargavhegde5269@gmail.com">bhargavhegde5269@gmail.com</a>
+  <a href="mailto:bhargavhegde5269@gmail.com" style="word-break: break-word;">bhargavhegde5269@gmail.com</a>
 </div>
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
@@ -27,13 +27,13 @@
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
   <div style="font-size: 2rem; margin-bottom: 0.5rem;">💼</div>
   <strong>LinkedIn</strong><br>
-  <a href="https://linkedin.com/in/bhargavhegde5269" target="_blank">linkedin.com/in/bhargavhegde5269</a>
+  <a href="https://linkedin.com/in/bhargavhegde5269" target="_blank" style="word-break: break-word;">linkedin.com/in/bhargavhegde5269</a>
 </div>
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
   <div style="font-size: 2rem; margin-bottom: 0.5rem;">🐙</div>
   <strong>GitHub</strong><br>
-  <a href="https://github.com/bhargavhegde" target="_blank">github.com/bhargavhegde</a>
+  <a href="https://github.com/bhargavhegde" target="_blank" style="word-break: break-word;">github.com/bhargavhegde</a>
 </div>
 
 </div>
@@ -78,25 +78,34 @@
 
 ### Internships
 
-**Pentagon Space** (2020) - Python Full Stack Development  
-**Teqed Labs** (2019) - Computer Vision Attendance System - **Best Project Award**  
-**Experts Hub** (2018) - ML Plant Classification (92% accuracy) - **Best Intern Award**
+**Pentagon Space** | *2020* | *4 months*
+
+- Completed comprehensive Python Full Stack Course covering Python, Django, SQL, HTML/CSS/JavaScript, data structures, OOPs, and aptitude training
+- Built web applications with Python, Django, and SQL, focusing on scalable software development
+
+**Teqed Labs** | *2019* | *4 weeks*
+
+- Developed an innovative **Attendance System** leveraging Computer Vision and Deep Learning for face recognition and database management
+- **Awarded 'Best Project'** for delivering an impactful, high-quality solution
+
+**Experts Hub** | *2018* | *3 weeks*
+
+- Built and deployed a machine learning pipeline to classify plant and seedling images with **92% accuracy**, optimizing species recognition for a dataset of 10,000 images
+- **Led team of 9 members**, coordinating tasks and managing project workflow for successful completion
+- **Earned 'Best Intern' award** for exceptional performance and leadership
 
 ---
 
 ## Technical Skills
 
-**Languages & Frameworks:** Python, Java, C/C++, SQL, JavaScript, PyTorch, TensorFlow, OpenCV, ROS2
+**Programming Languages & Frameworks:** Python, Java, C/C++, SQL, JavaScript, HTML, Shell Scripting, TensorFlow, Spark, PyTorch, Keras, Scikit-learn, OpenCV, Robot Framework, PIGPIO, Optuna, ROS2, YOLOv3, CNNs, LLM, Node.js, RAG (Retrieval-Augmented Generation)
 
-**Technologies:** AWS, Azure, Docker, Git, LiDAR, V2X Communications, CUDA, Kubernetes, CI/CD
+**Technologies & Tools:** DHCPv6, IPv6, 802.11mc, Wireshark, VMware, Git, Docker, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, JIRA, MySQL, UNIX, Linux, IoT, LiDAR, V2X Communications, CUDA, Kubernetes, Jenkins, RESTful APIs, CI/CD Pipelines, Collaborative Perception (CP)
 
 **Coursework:** Machine Learning, Algorithms, Data-Intensive Computing, Computer Security, Database Systems
 
 ---
 
-## Research Interests
+## Extracurricular Activities
 
-- **Autonomous Vehicles**: 3D perception, LiDAR processing, V2X cooperative detection
-- **Machine Learning**: Deep learning, reinforcement learning, computer vision
-- **Privacy-Preserving AI**: Local LLMs, RAG systems, offline AI solutions
-- **Edge Computing**: Low-latency systems, real-time processing
+Beyond my technical work, I enjoy activities that challenge my analytical thinking and problem-solving skills. I'm a state-level chess player and national-level skating player, which have helped develop my strategic thinking and discipline. I'm also an avid speed cuber, consistently solving Rubik's cubes with an average time under 20 seconds. These pursuits complement my technical work by enhancing my pattern recognition abilities and systematic approach to problem-solving.
