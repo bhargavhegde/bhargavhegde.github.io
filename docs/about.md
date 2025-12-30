@@ -2,18 +2,41 @@
 
 <div style="text-align: center; margin: 2rem 0;">
   <p style="font-size: 1.2rem; color: var(--vp-c-text-2);">
-    Master's student in Computer Science with focus on machine learning and AI. 
-    3+ years in software engineering, experienced in Python, PyTorch, TensorFlow, 
-    and related technologies for automation, networking, and autonomous systems.
+    Machine Learning Engineer with 3+ years of experience in software engineering, AI, and autonomous systems
   </p>
 </div>
 
-## Contact
+---
 
-📧 **Email**: [bhargavhegde5269@gmail.com](mailto:bhargavhegde5269@gmail.com)  
-📱 **Phone**: +1 716-279-7883  
-💼 **LinkedIn**: [linkedin.com/in/bhargavhegde5269](https://linkedin.com/in/bhargavhegde5269)  
-🐙 **GitHub**: [github.com/bhargavhegde](https://github.com/bhargavhegde)
+## Contact Details
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
+  <div style="font-size: 2rem; margin-bottom: 0.5rem;">📧</div>
+  <strong>Email</strong><br>
+  <a href="mailto:bhargavhegde5269@gmail.com">bhargavhegde5269@gmail.com</a>
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
+  <div style="font-size: 2rem; margin-bottom: 0.5rem;">📱</div>
+  <strong>Phone</strong><br>
+  <a href="tel:+17162797883">+1 716-279-7883</a>
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
+  <div style="font-size: 2rem; margin-bottom: 0.5rem;">💼</div>
+  <strong>LinkedIn</strong><br>
+  <a href="https://linkedin.com/in/bhargavhegde5269" target="_blank">linkedin.com/in/bhargavhegde5269</a>
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
+  <div style="font-size: 2rem; margin-bottom: 0.5rem;">🐙</div>
+  <strong>GitHub</strong><br>
+  <a href="https://github.com/bhargavhegde" target="_blank">github.com/bhargavhegde</a>
+</div>
+
+</div>
 
 ---
 
@@ -26,6 +49,7 @@
 - **Research Associate at CAVAS Lab** (Connected and Autonomous Vehicle Applications and Systems)
 - Ongoing research on real-time 3D perception and networking using LiDAR
 - Focus on cooperative perception and V2X communications
+- [Learn more about my research →](/research)
 
 ### JSS Academy of Technical Education
 **Bachelor of Engineering in Computer Science and Engineering**  
@@ -36,7 +60,7 @@
 
 ---
 
-## Professional Experience
+## Work Experience
 
 ### Tech Mahindra
 **Software Engineer** | *Nov. 2021 – Jul. 2024*
@@ -95,5 +119,3 @@ Machine Learning, Analysis of Algorithms, Data-Intensive Computing, Computer Sec
 - **Machine Learning**: Deep learning, reinforcement learning, computer vision
 - **Privacy-Preserving AI**: Local LLMs, RAG systems, offline AI solutions
 - **Edge Computing**: Low-latency systems, real-time processing, embedded AI
-
-
