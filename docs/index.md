@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Bhargav Hegde
   text: 
-  tagline: Machine Learning Engineer
+  tagline: AI Engineer
   actions:
     - theme: alt
       text: About Me
@@ -16,7 +16,7 @@ hero:
 
 <div style="max-width: 800px; margin: 3rem auto; padding: 0 2rem; line-height: 1.8; font-size: 1.1rem; color: var(--vp-c-text-1);">
 
-I'm **Bhargav Hegde**, a Machine Learning Engineer with **3 years** of software engineering experience. Currently pursuing a **Master's in Computer Science** at the University at Buffalo, I specialize in **Retrieval-Augmented Generation (RAG)**, local LLMs, and full-stack ML applications. 
+I'm **Bhargav Hegde**, an AI Engineer with **3 years** of software engineering experience. Currently pursuing a **Master's in Computer Science** at the University at Buffalo, I specialize in **Retrieval-Augmented Generation (RAG)**, local LLMs, and full-stack ML applications. 
 
 My research interests include autonomous vehicles, privacy-preserving AI, and edge computing. Explore my work below to see how I turn complex ideas into practical, impactful tools.
 

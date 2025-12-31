@@ -6,7 +6,7 @@ export default defineConfig({
   outDir: '../dist', // Output directory at project root
   
   title: 'Bhargav Hegde',
-  description: 'Machine Learning Engineer | AI Researcher | Transforming ideas into intelligent systems through AI, machine learning, and innovative engineering',
+  description: 'AI Engineer | AI Researcher | Transforming ideas into intelligent systems through AI, machine learning, and innovative engineering',
   
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],

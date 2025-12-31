@@ -2,7 +2,7 @@
 
 <div style="text-align: center; margin: 2rem 0;">
   <p style="font-size: 1.2rem; color: var(--vp-c-text-2);">
-    Machine Learning Engineer with 3+ years of software engineering experience
+    AI Engineer with 3+ years of software engineering experience
   </p>
 </div>
 
