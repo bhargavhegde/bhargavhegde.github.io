@@ -56,18 +56,18 @@ Automated waste classification using tiny-YOLOv3. Achieved **61.47% mAP** with r
 
 <div style="border: 1px solid var(--vp-c-divider); border-radius: 12px; padding: 1.5rem; background: var(--vp-c-bg-soft);">
 
-### 🎯 [Laser Shooter Using Object Detection](/projects/laser-shooter)
-**Computer Vision | Python, OpenCV, Raspberry Pi**
+### 🧠 [RAG-KnowBot: Personal RAG Chatbot](/projects/rag-knowbot)
+**AI/ML | Python, Ollama, LangChain, Chroma, Streamlit**
 
-Real-time object tracking with automated laser targeting using computer vision and servo control.
+Fully local, private chatbot using RAG for document Q&A. Features file upload, source citations, and persistent vector database.
 
 <div style="margin: 1.5rem 0;">
   <video controls style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" preload="metadata">
-    <source src="/videos/laser-shooter-demo.mp4" type="video/mp4">
+    <source src="/videos/rag-knowbot-demo.webm" type="video/webm">
   </video>
 </div>
 
-[View Details →](/projects/laser-shooter)
+[View Details →](/projects/rag-knowbot) | [GitHub](https://github.com/bhargavhegde/RAG-KnowBot)
 
 </div>
 
