@@ -14,7 +14,7 @@
   <div style="font-size: 3rem; margin-bottom: 1rem;">📄</div>
   <h3 style="margin: 1rem 0;">Download Resume</h3>
   <p style="color: var(--vp-c-text-2); margin-bottom: 1.5rem;">One-page resume highlighting key skills and experience</p>
-  <a href="/resume/resume.pdf" download style="display: inline-block; padding: 1rem 2rem; background: var(--vp-c-brand); color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">
+  <a href="/resume/resume.pdf" download="Bhargav_Hegde_Resume.pdf" style="display: inline-block; padding: 1rem 2rem; background: var(--vp-c-brand); color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">
     📥 Download Resume
   </a>
 </div>
@@ -23,7 +23,7 @@
   <div style="font-size: 3rem; margin-bottom: 1rem;">📋</div>
   <h3 style="margin: 1rem 0;">Download Full CV</h3>
   <p style="color: var(--vp-c-text-2); margin-bottom: 1.5rem;">Comprehensive CV with detailed experience and projects</p>
-  <a href="/resume/full-cv.pdf" download style="display: inline-block; padding: 1rem 2rem; background: var(--vp-c-brand); color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">
+  <a href="/resume/full-cv.pdf" download="Bhargav_Hegde_Full_CV.pdf" style="display: inline-block; padding: 1rem 2rem; background: var(--vp-c-brand); color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">
     📥 Download Full CV
   </a>
 </div>
