@@ -6,6 +6,30 @@
   </p>
 </div>
 
+## 📊 Key Metrics
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
+  <strong style="font-size: 1.5rem;">3+</strong><br>Years Experience
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
+  <strong style="font-size: 1.5rem;">15+</strong><br>Projects
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
+  <strong style="font-size: 1.5rem;">3</strong><br>Awards
+</div>
+
+<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
+  <strong style="font-size: 1.5rem;">1</strong><br>Publication
+</div>
+
+</div>
+
+---
+
 ## 🏆 Awards & Recognition
 
 ### Best Project Award
@@ -68,37 +92,3 @@
 
 - Developed Python-based RESTful APIs to optimize data pipelines, enhancing processing and storage efficiency for client reporting
 - Streamlined data workflows to improve overall system performance
-
----
-
-## 🚀 Project Highlights
-
-### Performance Improvements
-
-- **DAIR-V2X**: 8.9% improvement in 3D AP@0.7, 6.7% improvement in BEV AP@0.7
-- **Machine Learning**: 92% accuracy (plant classification), 90% accuracy (garbage segregation), 87% accuracy (CNN classification)
-- **Reinforcement Learning**: 90%+ policy convergence
-
----
-
-## 📊 Key Metrics
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
-
-<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
-  <strong style="font-size: 1.5rem;">3+</strong><br>Years Experience
-</div>
-
-<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
-  <strong style="font-size: 1.5rem;">15+</strong><br>Projects
-</div>
-
-<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
-  <strong style="font-size: 1.5rem;">3</strong><br>Awards
-</div>
-
-<div style="border: 1px solid var(--vp-c-divider); border-radius: 8px; padding: 1.5rem; text-align: center;">
-  <strong style="font-size: 1.5rem;">1</strong><br>Publication
-</div>
-
-</div>

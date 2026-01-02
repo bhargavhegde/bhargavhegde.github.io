@@ -108,4 +108,4 @@
 
 ## Extracurricular Activities
 
-Beyond my technical work, I enjoy activities that challenge my analytical thinking and problem-solving skills. I'm a state-level chess player and national-level skating player, which have helped develop my strategic thinking and discipline. I'm also an avid speed cuber, consistently solving Rubik's cubes with an average time under 20 seconds. These pursuits complement my technical work by enhancing my pattern recognition abilities and systematic approach to problem-solving.
+I'm a national-level skating player. I also enjoy chess and speed cubing, solving Rubik's cubes with an average time under 20 seconds.
