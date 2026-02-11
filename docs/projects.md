@@ -8,6 +8,15 @@
 
 ## Featured Projects
 
+### 🧠⚡ [KnowBot 3.0: Neural Knowledge Assistant](/projects/knowbot-3.0)
+**AI/ML | Next.js, Django, LangChain, Ollama, PostgreSQL**
+
+High-fidelity RAG application with hybrid search, OCR, and autonomous web capabilities. Features a decoupled architecture and premium UI.
+
+[View Details →](/projects/knowbot-3.0) | [GitHub](https://github.com/bhargavhegde/KnowBot3.0)
+
+---
+
 ### 🗑️ [Garbage Segregation System](/projects/garbage-segregation)
 **Computer Vision | Python, YOLOv3, CNN, Raspberry Pi**  
 *Jun. 2020*
@@ -24,18 +33,14 @@ Automated waste classification using tiny-YOLOv3. Achieved **61.47% mAP** with r
 
 ---
 
-### 🧠 [RAG-KnowBot: Personal RAG Chatbot](/projects/rag-knowbot)
-**AI/ML | Python, Ollama, LangChain, Chroma, Streamlit**
+### 🧠⚡ [KnowBot 3.0: Neural Knowledge Assistant](/projects/knowbot-3.0)
+**AI/ML | Next.js, Django, LangChain, Ollama, PostgreSQL**
 
-Fully local, private chatbot using RAG for document Q&A. Features file upload, source citations, and persistent vector database.
+High-fidelity RAG application with hybrid search, OCR, and autonomous web capabilities. Features a decoupled architecture and premium UI.
 
-<div style="margin: 1.5rem 0;">
-  <video controls style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" preload="metadata">
-    <source src="/videos/rag-knowbot-demo.webm" type="video/webm">
-  </video>
-</div>
+[View Details →](/projects/knowbot-3.0) | [GitHub](https://github.com/bhargavhegde/KnowBot3.0)
 
-[View Details →](/projects/rag-knowbot) | [GitHub](https://github.com/bhargavhegde/RAG-KnowBot)
+---
 
 ---
 
@@ -102,6 +107,15 @@ Real-time object tracking with automated laser targeting using computer vision a
 ---
 
 ## Other Projects
+
+### 🧠 [RAG-KnowBot: Personal RAG Chatbot](/projects/rag-knowbot)
+**AI/ML | Python, Ollama, LangChain, Chroma, Streamlit**
+
+Fully local, private chatbot using RAG for document Q&A. Features file upload, source citations, and persistent vector database.
+
+[View Details →](/projects/rag-knowbot) | [GitHub](https://github.com/bhargavhegde/RAG-KnowBot)
+
+---
 
 ### 🏠 [Smart Kitchen Containers](/projects/smart-kitchen)
 **IoT | Python, PHP, Java, SQL, Raspberry Pi**  
