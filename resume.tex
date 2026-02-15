@@ -1,0 +1,130 @@
+\documentclass[10pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  left=15mm,
+  right=15mm,
+  top=8mm,
+  bottom=15mm,
+  headheight=14.5pt
+}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={Bhargav Hegde - AI Engineer Resume},
+    linkbordercolor={1 1 1}
+}
+\usepackage{ragged2e}
+\usepackage{tabularx}
+
+% Disable page numbers
+\pagestyle{empty}
+
+% Disable section numbering
+\setcounter{secnumdepth}{0}
+
+% Section Titles
+\titlespacing{\section}{0pt}{5pt plus 1pt minus 1pt}{2pt plus 1pt minus 1pt}
+\titleformat{\section}
+  {\large\bfseries\raggedright}{}{0em}{}[\color{black!60}\rule{\linewidth}{0.4pt}]
+
+% Personal Information Commands
+\newcommand{\name}[1]{\begin{center}\Huge\bfseries #1\end{center}\vspace{-3pt}}
+\newcommand{\contact}[4]{
+\begin{center}
+\scriptsize
+\begin{tabular}{c@{\hspace{0.6em}}c@{\hspace{0.6em}}c@{\hspace{0.6em}}c}
+#1 & #2 & \href{#3}{linkedin.com/in/bhargavhegde5269} & \href{#4}{bhargavhegde.github.io}
+\end{tabular}
+\end{center}\vspace{0pt}
+}
+\newcommand{\titlejob}[1]{\begin{center}\small\itshape #1\end{center}\vspace{-2pt}}
+
+% Custom environment for structured entries without bullets
+\newenvironment{entry}[2]{
+  \noindent\begin{tabularx}{\linewidth}{@{}X@{\hspace{1.5em}}r@{}}
+    \textbf{#1} & #2 \\
+  \end{tabularx}
+  \vspace{1pt}
+  \noindent\small
+}{\vspace{2pt}}
+
+\begin{document}
+
+\name{Bhargav Hegde}
+\contact{+1 716-279-7883}{bhargavhegde5269@gmail.com}{https://www.linkedin.com/in/bhargavhegde5269}{https://bhargavhegde.github.io/}
+\titlejob{AI Engineer specializing in Retrieval-Augmented Generation (RAG), V2X Cooperative Perception, and Computer Vision with 3+ years of production software engineering experience}
+
+% --- EDUCATION SECTION ---
+\section{Education}
+\begin{entry}{State University of New York at Buffalo, Buffalo, NY}{Aug. 2024 – Present}
+  Master of Science in Computer Science and Engineering \\
+  \textbf{Research Associate in CAVAS Lab} (Connected and Autonomous Vehicle Applications and Systems) - conducting research on real-time 3D object detection, LiDAR-based perception, and V2X cooperative perception for autonomous vehicles
+\end{entry}
+
+\begin{entry}{JSS Academy of Technical Education, Bangalore, India}{Aug. 2016 – Aug. 2020}
+  Bachelor of Engineering in Computer Science and Engineering \\
+  Initiated and \textbf{secured funding} for an IoT laboratory; conducted instructional sessions for junior students
+\end{entry}
+
+% --- PROFESSIONAL EXPERIENCE SECTION ---
+\section{Professional Experience}
+\begin{entry}{Tech Mahindra, Software Engineer}{Nov. 2021 – Jul. 2024}
+  Developed automation frameworks using Robot Framework, applying machine learning-based pattern recognition for Wi-Fi RTT locationing systems (IEEE 802.11mc), achieving sub-meter accuracy through advanced packet analysis with Wireshark. \\
+  Led R\&D initiatives in DHCPv6 protocol testing, designed comprehensive test cases addressing stateful vs. stateless configurations, and delivered training to cross-functional teams globally on Wi-Fi RTT implementation.
+\end{entry}
+
+\begin{entry}{Tata Consultancy Services, System Associate Engineer}{Apr. 2021 – Oct. 2021}
+  Developed Python-based RESTful APIs to automate business processes, streamlining data fetching, processing, and storage for efficient client reporting, accelerating deployment time by 15\%.
+\end{entry}
+
+\begin{entry}{Internships}{2018 – 2020}
+  \textbf{Pentagon Space (2020):} Completed 4-month Python Full Stack course; built web applications with Django and SQL. \\
+  \textbf{Teqed Labs (2019):} Developed Computer Vision-based attendance system using Deep Learning for face recognition and database management — \textbf{Awarded 'Best Project'}. \\
+  \textbf{Experts Hub (2018):} Built machine learning pipeline to classify plant and seedling images with 92\% accuracy on 10,000+ image dataset. Led and mentored team of 8 members — \textbf{Awarded 'Best Intern'}.
+\end{entry}
+
+% --- SELECTED PROJECTS SECTION ---
+\section{Projects} 
+
+\begin{entry}{DAIR-V2X Cooperative LIDAR 3D Object Detection (PyTorch, CUDA, V2X)}{2025}
+  Full reproduction of DAIR-V2X late-fusion model for cooperative 3D object detection in V2X scenarios, achieving 40.01\% AP on vehicle class with improved performance metrics: 37.25\% 3D AP@0.7 (8.9\% gain). \\
+  Reduced communication cost by 12.3\% to 898.10 bytes; implemented LiDAR point cloud processing with visualization tools for 3D and BEV fusion results.
+\end{entry}
+
+\begin{entry}{KnowBot 3.0: Neural Knowledge Assistant (Next.js 15, Django DRF, LangChain, Hybrid Search)}{2025}
+  Architected a high-fidelity, decoupled RAG system featuring an advanced \textbf{Hybrid Search} engine (BM25 + ChromaDB) and intelligent context window management for superior retrieval accuracy. \\
+  Developed an autonomous \textbf{Multi-modal Pipeline} integrating \textbf{Tesseract OCR} for scanned document ingestion and \textbf{Tavily Web Search} for real-time knowledge expansion and query reformulation. \\
+  Implemented as a cloud-native platform with \textbf{microservices architecture} (Celery, Redis, PostgreSQL), featuring a premium 3D-styled UI and custom system personas.
+\end{entry}
+
+\begin{entry}{KnowBot 2.0: Personal RAG Chatbot (Python, Streamlit, Ollama, LangChain, ChromaDB)}{2024}
+  Developed a privacy-first, fully local RAG application for interacting with personal documents (PDF, TXT, MD) using Llama 3.1 and nomic-embed-text via Ollama. \\
+  Integrated source citations, persistent vector storage, and hallucination guardrails to ensure data security and response reliability in 100\% offline environments.
+\end{entry}
+
+\begin{entry}{Garbage Segregation System (YOLOv3, CNN, Raspberry Pi, Robotic Arm)}{Jun. 2020}
+  Designed robotic waste segregation system using YOLOv3 and custom CNNs, achieving 90\% garbage classification accuracy with optimized edge inference on Raspberry Pi. \\
+  Automated waste sorting and placement with integrated robotic arm; \textbf{secured funding from Karnataka State Council (KSCST)}.
+  
+  \small \raggedright For a complete list of projects, please visit: \href{https://bhargavhegde.github.io/}{bhargavhegde.github.io}
+\end{entry}
+
+% --- TECHNICAL SKILLS SECTION ---
+\section{Technical Skills}
+\begin{entry}{Technical Skills}{}
+  \textbf{Programming Languages:} Python, C/C++, Java, SQL, JavaScript/TypeScript, Next.js, HTML/CSS \\
+  \textbf{AI/ML Frameworks:} PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, YOLO, LangChain, Ollama, Tesseract \\
+  \textbf{Deep Learning:} Computer Vision, NLP, Reinforcement Learning, LLMs (Llama 3.1), RAG, Hybrid Search, OCR \\
+  \textbf{Specialized Tech:} LiDAR Processing, 3D Object Detection, V2X, CUDA, Embedded Systems (Raspberry Pi), Tavily API \\
+  \textbf{Tools \& Platforms:} Docker, Git, Wireshark, Robot Framework, Vercel, Railway, ChromaDB, Redis, Celery, AWS \\
+  \textbf{Databases \& Networking:} MySQL, PostgreSQL, Linux/UNIX, IoT, IEEE 802.11mc, DHCPv6, IPv6, Wi-Fi RTT
+\end{entry}
+
+\end{document}
